@@ -1,7 +1,7 @@
 ---
 title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/home-about-section.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
@@ -30,6 +30,8 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: /img/illustrations-tutorials.svg
+    text: Another coffee mug!
 values:
   heading: Our values
   text: >-
@@ -37,6 +39,5 @@ values:
     of colonialism and mindless abuse of natural resources and human lives. We
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
-published: true
 ---
-![zim_512x512@2x-compressor.png]({{site.baseurl}}/site/content/index/zim.png)
+
